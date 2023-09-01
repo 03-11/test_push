@@ -9,5 +9,6 @@ public class demo01 {
         System.out.println("测试idea推送工程到github中");
         System.out.println("测试github中pull到idea中");
         System.out.println("测试idea中的更新项目功能");
+        System.out.println("测试ideaclone功能");
     }
 }
