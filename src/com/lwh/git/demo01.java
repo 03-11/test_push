@@ -7,5 +7,6 @@ public class demo01 {
         System.out.println("git demo01 test idea");
         System.out.println("git demo01 test branch02");
         System.out.println("测试idea推送工程到github中");
+        System.out.println("测试github中pull到idea中");
     }
 }
